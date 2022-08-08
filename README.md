@@ -6,7 +6,7 @@ In this exercise, I had to create a prototype of my own design using the provide
 
 ____
 
-<img src="file:///Users/pavellyutikov/Desktop/scr.png" title="" alt="scr.png" data-align="center">
+<img src="https://github.com/PavelLyutikov/UnityLearn_FoodCatcher/blob/main/Screenshot/scr.png?raw=true" title="" alt="scr.png" data-align="center">
 
 ___
 
